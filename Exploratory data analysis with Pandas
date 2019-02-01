@@ -1,0 +1,6 @@
+import numpy as np
+import pandas as pd
+# we don't like warnings
+# you can comment the following 2 lines if you'd like to
+import warnings
+warnings.filterwarnings('ignore')
